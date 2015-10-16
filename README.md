@@ -13,7 +13,11 @@ this is a place for stuff that is too weirdly specific for the main corpora proj
 
 
 
-# you probably actually want `dariusk/corpora`. ORIGINAL README FOLLOWS BELOW:
+# you probably actually want [`dariusk/corpora`](https://github.com/dariusk/corpora). 
+
+
+----------------------------------------------------------------------------
+### ORIGINAL README FOLLOWS BELOW:
 
 ---------------------------------------
 
